@@ -9,6 +9,9 @@ Customer Personality Analysis involves a detailed examination of an ideal custom
 ## Problem Statement
 The project aims to perform customer segmentation through clustering techniques based on various attributes such as demographic details, purchase history, campaign responses, and online behavior. The objective is to identify distinct customer segments to assist businesses in targeted marketing strategies.
 
+## Objective
+The main objective of this project is to perform clustering analysis on the dataset to summarize distinct customer segments. Clustering techniques will be employed to identify and understand customer groups based on various attributes, enabling businesses to formulate targeted strategies for each segment.
+
 ## Dataset Information
 ### Attributes
 - `ID`: Customer's unique identifier
@@ -41,9 +44,14 @@ The project aims to perform customer segmentation through clustering techniques 
 - `NumStorePurchases`: Number of purchases made directly in stores
 - `NumWebVisitsMonth`: Number of visits to company’s website in the last month
 
-## Objective
-The main objective of this project is to perform clustering analysis on the dataset to summarize distinct customer segments. Clustering techniques will be employed to identify and understand customer groups based on various attributes, enabling businesses to formulate targeted strategies for each segment.
-
+## Technologies Used: 
+- MS Excel
+- Python 
+- Juypter Notebook
+   
 Feel free to explore the Jupyter Notebook or Python scripts to delve into the analysis and outcomes of this project!
+
+**Note:**  The visuals of the analysis are added in the same github repository in the .jpg format . Please have a look at those visuals for more information .
+
 
 
